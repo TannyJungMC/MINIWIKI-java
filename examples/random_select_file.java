@@ -15,6 +15,14 @@ public class random_select_file {
 
         File directory = new File("C:/Users/Kwanc/OneDrive/Desktop/MINIWIKI-java/Examples");
 
+
+
+        // --------------------------------------------------
+        // Variables
+        // --------------------------------------------------
+
+        
+
         File[] list = directory.listFiles();
         File[] filter = directory.listFiles();
 
