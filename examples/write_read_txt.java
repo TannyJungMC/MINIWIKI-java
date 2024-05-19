@@ -21,6 +21,14 @@ public class write_read_txt {
         String file_name = "test.txt";
         String file_directory = "C:/Users/Kwanc/OneDrive/Desktop/MINIWIKI-java";
 
+
+
+        // --------------------------------------------------
+        // Variables
+        // --------------------------------------------------
+
+        
+
         File file = new File(file_directory + "/" + file_name);
 
 
