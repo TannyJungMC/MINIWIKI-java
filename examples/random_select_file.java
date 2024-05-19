@@ -13,7 +13,7 @@ public class random_select_file {
 
 
 
-        File directory = new File("C:/Users/Kwanc/OneDrive/Desktop/MINIWIKI-java/Examples");
+        File directory = new File("C:/Users/Kwanc/OneDrive/Desktop/MINIWIKI-java/examples");
 
 
 
