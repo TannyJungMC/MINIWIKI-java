@@ -17,6 +17,14 @@ public class read_online_file {
 
         String url = "https://raw.githubusercontent.com/TannyJungMC/THT-tree_pack/main/README.md";
 
+
+
+        // --------------------------------------------------
+        // Variables
+        // --------------------------------------------------
+
+
+
         URL url_convert;
         BufferedReader reader;
 
