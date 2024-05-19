@@ -19,6 +19,14 @@ public class download_online_file {
         String url = "https://github.com/TannyJungMC/test_txt/archive/refs/heads/main.zip";
         String to_path = "C:/Users/Kwanc/OneDrive/Desktop/MINIWIKI-java/download.zip";      //      Add file type at the end of your path like ".zip" and ".txt"
 
+
+
+        // --------------------------------------------------
+        // Variables
+        // --------------------------------------------------
+
+        
+
         File test_path = new File(to_path);
 
 
